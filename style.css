@@ -1,0 +1,17 @@
+#rpv1-settings {
+    padding: 8px;
+}
+#rpv1-settings label {
+    display: block;
+    margin: 6px 0 2px;
+    font-weight: bold;
+}
+#rpv1-settings input[type="text"] {
+    width: 100%;
+    padding: 4px;
+    box-sizing: border-box;
+}
+#rpv1-status {
+    margin-top: 8px;
+    font-size: 0.9em;
+}

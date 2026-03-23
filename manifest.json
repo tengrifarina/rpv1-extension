@@ -1,0 +1,12 @@
+{
+    "display_name": "RPv1 — Memory Engine",
+    "loading_order": 1,
+    "requires": [],
+    "optional": [],
+    "js": "index.js",
+    "css": "style.css",
+    "author": "brainOS",
+    "version": "0.1.0-beta",
+    "homePage": "",
+    "generate_interceptor": "rpv1_interceptGeneration"
+}
